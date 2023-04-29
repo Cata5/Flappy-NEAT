@@ -1,0 +1,6 @@
+speechrecognition==3.8.1
+pyttsx3==2.90
+pywhatkit==5.1
+google==3.0.0
+beautifulsoup4==4.10.0
+lxml==4.6.3
