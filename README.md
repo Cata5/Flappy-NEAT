@@ -4,4 +4,5 @@ Folosind Python am recreat un joc de pe telefon care era dificil si am reusit sa
 Pasi pentru a rula acest program:<br />
   1.Instaleaza Python (https://www.python.org/downloads/ ||| daca nu merge ultima versiune de python, eu am folosit 3.10.1).<br />
   2.In installer apasa pe "Add to PATH" !important.<br />
-  3.Deschide CMD si scrie pip install -r req.txt
+  3.Deschide CMD si scrie pip install -r req.txt<br/>
+  4.Daca nu aveti un editor de code puteti folosi CMD ca sa rulati fisierul "cd /d "locatia unde este fisierul"" si "python.exe Flappy_bird_ai.py"
