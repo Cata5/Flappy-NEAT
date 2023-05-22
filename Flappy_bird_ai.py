@@ -220,10 +220,6 @@ def eval_genomes(genomes, config):
     global WIN, gen
     win = WIN
     gen += 1
-
-    # start by creating lists holding the genome itself, the
-    # neural network associated with the genome and the
-    # bird object that uses that network to play
     nets = []
     birds = []
     ge = []
